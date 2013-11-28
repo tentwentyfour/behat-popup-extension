@@ -24,6 +24,6 @@
     },
     
     "autoload": {
-        "psr-0": {"Irs\\BehatPopupExtension": "behat-popup-extension/src"}
+        "psr-0": {"Irs\\BehatPopupExtension": "src"}
     }
 }
