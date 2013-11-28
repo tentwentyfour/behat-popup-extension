@@ -14,8 +14,8 @@
     
     "require": {
         "php":          ">=5.4.0",
-        "behat/behat":  "2.4.*",
-        "behat/mink":   "1.4.*",
+        "behat/behat":  "~2.4",
+        "behat/mink":   "~1.5",
         "behat/mink-selenium2-driver": "*"
     },
     
